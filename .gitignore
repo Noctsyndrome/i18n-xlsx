@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+.vscode/settings.json
+node_modules/
+npm-debug.log
+npm-debug.log.*
+
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+backup/
