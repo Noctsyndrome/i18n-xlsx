@@ -11,7 +11,7 @@
 Excel 表格形如:
 
 label | zh-CN | en | es
----|--- |--- |--- |---
+---|---|---|---
 userCenter.title|用户中心|User Center|Centro de usuario
 userCenter.subTitle|个人信息|Personal Information|Informacion personal
 userCenter.changePassTitle|修改密码|Modify Password|Cambiar contraseña
